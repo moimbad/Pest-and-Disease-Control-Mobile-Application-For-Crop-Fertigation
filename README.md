@@ -1,4 +1,4 @@
-# pestanddisease
+# Pest and Disease Control Mobile Application for Crop fertigation
 
 A  Flutter mobile application.
 
