@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861795774766",
+    "project_id": "pest1-61da9",
+    "storage_bucket": "pest1-61da9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861795774766:android:3b96a180e2070e3d56cabf",
+        "android_client_info": {
+          "package_name": "com.example.pestanddisease1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861795774766-09aoeutp6olu1jqe7nktq6c4kp8f84aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKWzBjQaJjXMJ11zFRY1Cq4SipFwXUzNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861795774766-09aoeutp6olu1jqe7nktq6c4kp8f84aj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
