@@ -3,7 +3,7 @@
 A  Flutter mobile application.
 
 ## Getting Started
-This project is my final year project regarding pest and disease control mobile application for crop fertigation.
+This project is regarding pest and disease control mobile application for crop fertigation.
 
 
 **Crops**
